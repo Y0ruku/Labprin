@@ -1,0 +1,4 @@
+com\example\coffeeshop\controller\CoffeeController.class
+com\example\coffeeshop\model\Coffee.class
+com\example\coffeeshop\CoffeeShopApplication.class
+com\example\coffeeshop\service\CoffeeService.class
